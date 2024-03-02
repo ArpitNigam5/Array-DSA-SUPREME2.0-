@@ -1,6 +1,8 @@
 //Segregate Negative Positive Numbers:
 
 #include <iostream>
+#include<vector>
+#include<limits.h>
 using namespace std;
 
 void shiftNegativeOneSide(int arr[], int n) {
